@@ -1,8 +1,11 @@
 # TrafficGuide
 
-https://arfanrahman.itch.io/vr-traffic-guide
-https://www.youtube.com/watch?v=mfyJS5YNx1E
-https://telkomuniversityofficial-my.sharepoint.com/personal/amirhf_telkomuniversity_ac_id/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Famirhf%5Ftelkomuniversity%5Fac%5Fid%2FDocuments%2FTugas%20Besar%20PPAP%202023%2FD3RPLA%2D45%2D01%2FDreamtech%20Fix
+
+Itch IO : https://arfanrahman.itch.io/vr-traffic-guide
+Video Trailer: https://www.youtube.com/watch?v=mfyJS5YNx1E
+One Drive: https://telkomuniversityofficial-my.sharepoint.com/personal/amirhf_telkomuniversity_ac_id/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Famirhf%5Ftelkomuniversity%5Fac%5Fid%2FDocuments%2FTugas%20Besar%20PPAP%202023%2FD3RPLA%2D45%2D01%2FDreamtech%20Fix
+![image](https://github.com/ArfanRahmanYudiantoro/TrafficGuide/assets/91447249/08213f55-4cb9-4f34-838d-cb14e463a3bb)
+
 
 VR Traffic Guide
 
